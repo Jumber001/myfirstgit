@@ -1,8 +1,4 @@
 This is a simple practise
-aaa
-asdfsadasssss
-
-sasada
-
-
-adsad
+git remote -v
+git commit -a -m "aaaaaaaaaaaaaaaa"
+git push origin master
